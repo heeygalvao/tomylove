@@ -1,0 +1,65 @@
+body {
+    background-color: #1D1D1D;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: aliceblue;
+}
+.center {
+    text-align: center;
+    font-weight: bold;
+    font-size: 21px;
+}
+h1.center{
+    font-size: 26px
+}
+img.center {
+    width: 250px;
+    height: 250px;
+    display: block;
+    margin: 0 auto;
+    border-radius: 150px;
+}
+.branco {
+    color: aliceblue;
+    font-size: 19px;
+    text-align: center;
+}
+a {
+    color: aliceblue;
+}
+.uau {
+    background-color: #A061C9;
+    border-radius: 3px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+.uou {
+    background-color: plum;
+    border-radius: 10px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    width: 50%;
+    margin: 0 auto;
+}
+.twitter-tweet{
+    display: block;
+    margin: 0 auto;
+}
+iframe.video{
+    display: block;
+    margin: auto;
+}
+.brancoo {
+    color: aliceblue;
+    font-size: 18px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#brancoo{
+    color: aliceblue;
+    font-size: 18px;
+    text-align: end;
+}
+#emoji{
+    font-size: 72px;
+    text-align: center;
+}
